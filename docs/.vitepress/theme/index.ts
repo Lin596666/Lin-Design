@@ -13,5 +13,5 @@ export default {
     app.component('Test', Test)
     app.component('Demo', Demo)
     app.component('DemoBlock', DemoBlock)
-  }
+  },
 }
